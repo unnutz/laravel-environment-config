@@ -1,0 +1,20 @@
+{
+    "name": "unnutz/laravel-environment-config",
+    "description": "Bring back environment configuration cascading to Laravel",
+    "keywords": ["laravel", "config", "environment", "cascading"],
+    "require": {
+        "laravel/framework": "5.1.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "Unnutz\\LaravelEnvironmentConfig\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artyom Sokolov",
+            "email": "artyom.sokolov@gmail.com"
+        }
+    ]
+}
